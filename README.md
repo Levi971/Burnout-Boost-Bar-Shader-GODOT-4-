@@ -4,6 +4,7 @@ Le shader étant plutot simple , je ne pense pas que ce soit necessaire de dire 
 Video de presentation : 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xfaPi4AIBAE/0.jpg)](https://youtu.be/xfaPi4AIBAE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/buTunSohbj8/0.jpg)](https://youtu.be/buTunSohbj8)
 
 
 Quelques Images:
